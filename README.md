@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ginofco, I'm a hobbist of electronics.
+- 👋 Hi, I’m @ginofco, I'm a hobbist in electronics.
 - 👀 I’m interested in arduino, 3d printing and robotics.
 - 🌱 I’m currently learning all the above.
 - 💞️ I’m looking to collaborate on all those things, although having little to contribute.
